@@ -96,17 +96,6 @@ int main()
 			}
 		}
 
-
-		//printf("enter the second matrix element=\n");
-		//for(int i=0;i<row1;i++)
-		//{
-		//for(int j=0;j<col1;j++)
-		//{
-		//scanf("%d",&b[i][j]);
-		//}
-		//}    
-
-
 		//starting the timer
 		struct Timer timer;
 		Start(&timer);
