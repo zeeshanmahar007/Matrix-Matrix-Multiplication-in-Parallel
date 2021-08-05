@@ -8,7 +8,7 @@
 - then Run code by this `./omp.out`
 - Enter value of Row & Column for Matrix-A then for Matrix-B
 
-## Author
+## Author1
 You can get in touch with me on my LinkedIn Profile:
 
 #### Mahar Zeeshan
