@@ -86,7 +86,7 @@ Speedup = Sequential Time/Parallel Time
 | 6000*6000 |3837.05|24.29|157.96|
 | 7000*7000 |6277.61|69.46|90.37|
 
-
+<b>NOTE:</b> Given Problem Size N is only of one Matrix.
 
 ## Conclusions
 As we seen main code and analysis the code, we conclude that according to our algorithm that we have implemented is if we increase Problem Size then Speedup also increase but at the start speedup is very low due to making like fork the different threads and then join threads also consume time that is why we have low speedup at the start or if we give low problem size.
