@@ -76,15 +76,15 @@ Speedup = Sequential Time/Parallel Time
 
 <img src="https://render.githubusercontent.com/render/math?math=\Huge SpeedUp= \frac{SequentialTime}{ParallelTime}">
 
-| Problem Size N | Sequential Time(sec) | Parallel Time(sec) With 4 Threads | Speedup |
+| Problem Size N*N | Sequential Time(sec) | Parallel Time(sec) With 4 Threads | Speedup |
 | -------------- | -------------------- | --------------------------------- | ------- |
-| 1000 |9.9|8.3|1.19 |
-| 2000 |124.6|22.13|5.63|
-| 3000 |454.6|21.9|20.75|
-| 4000 |1134.5|62.06|18.28|
-| 5000 |23.26|10.8|215.37|
-| 6000 |3837.05|24.29|157.96|
-| 7000 |6277.61|69.46|90.37|
+| 1000*1000 |9.9|8.3|1.19 |
+| 2000*2000 |124.6|22.13|5.63|
+| 3000*3000 |454.6|21.9|20.75|
+| 4000*4000 |1134.5|62.06|18.28|
+| 5000*5000 |23.26|10.8|215.37|
+| 6000*6000 |3837.05|24.29|157.96|
+| 7000*7000 |6277.61|69.46|90.37|
 
 
 
