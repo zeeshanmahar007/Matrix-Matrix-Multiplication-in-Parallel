@@ -8,7 +8,7 @@
 - then Run code by this `./omp.out`
 - Enter value of Row & Column for Matrix-A then for Matrix-B
 
-## Author1
+## Author
 You can get in touch with me on my LinkedIn Profile:
 
 #### Mahar Zeeshan
@@ -78,7 +78,7 @@ Speedup = Sequential Time/Parallel Time
 
 | Problem Size N | Sequential Time(sec) | Parallel Time(sec) With 4 Threads | Speedup |
 | -------------- | -------------------- | --------------------------------- | ------- |
-| 1000           |9.9|8.3|1.19 |
+| 1000 |9.9|8.3|1.19 |
 | 2000 |124.6|22.13|5.63|
 | 3000 |454.6|21.9|20.75|
 | 4000 |1134.5|62.06|18.28|
