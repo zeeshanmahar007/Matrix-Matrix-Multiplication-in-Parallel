@@ -12,10 +12,10 @@
 You can get in touch with me on my LinkedIn Profile:
 
 #### Mahar Zeeshan
-[![LinkedIn Link](https://img.shields.io/badge/Connect-MaharZeeshan-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+[![LinkedIn Link](https://img.shields.io/badge/Connect-maharzeeshan-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/zeeshanmahar007)
 
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-MaharZeeshan-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/zeeshanmahar007)
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-maharzeeshan-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/zeeshanmahar007)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
